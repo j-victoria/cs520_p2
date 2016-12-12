@@ -10,6 +10,7 @@ using namespace std;
 #include <cassert>
 #include <queue>
 #include <cctype>
+#include <cstring>
 
 //local files
 #include "util.h"
