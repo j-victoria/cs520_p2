@@ -1,9 +1,9 @@
-# cs520_prog1 & 2
+# cs520_p2
 Simulator for the simple APEX pipeline with forwarding! discussed in class
 
 By Marvin Vinluan and Jay Victoria
 
-This project is found at github at: https://github.com/j-victoria/cs520_prog1
+This project is found at github at: https://github.com/j-victoria/cs520_p2
 
 Test input files all start with 'test'
 
